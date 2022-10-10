@@ -8,7 +8,7 @@ https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/y2whd0cb/2728/chunklist.m
 #EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2018/01/cbn.png" group-title="RELIGIOSOS", CBN
 https://bcovlive-a.akamaihd.net/r21fb8503a4a74d098b798f16922b2a36/us-east-1/us-east-1/734546207001/profile_0/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2019_01/small_SBN.png.1ca0a7da46ac8293b7bf5ee311bf1064.png" group-title="RELIGIOSOS", SBN
-https://playback2.akamaized.net/streams/29151850_9385581_lsilh91ejcikyg9kr2x_1/master.m3u8?dw=14400&hdnts=exp=1664497695~acl=/streams/29151850_9385581_lsilh91ejcikyg9kr2x_1/master.m3u8*~hmac=305e31b9855c16a2bd4c08967ce75634d5c6ede4c38675dac1324fca35e886d8
+https://player-api.new.livestream.com/accounts/29151850/events/9385581/broadcasts/233266179.secure.m3u8?dw=14400&hdnea=st%3D1665428322~exp%3D1665430122~acl%3D%2Fi%2F29151850_9385581_lsijpg8egqdjaciesl6_1%40688613%2F%2A~hmac%3Dc3830a78957c54b49ee9556dd63431ca613665208c58995df96b577fa1ae5dfd&token=63446c8e_0ea28ada051b4095ef0c7c23451a2b95aebcd514
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/D_ECmZFH6u6l4Tday-ZLPFizqNgPpVQKe3eCn057VwzXQMBVmv4jb9GYmC8vMTo-yYA" group-title="RELIGIOSOS", JN19
 https://servilive.com:3149/live/jn19tvlive.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6e/Willax_Televisi%C3%B3n_2010.svg/revision/latest/scale-to-width-down/1200?cb=20220528232813&path-prefix=es" group-title="PERU", WILLAX
